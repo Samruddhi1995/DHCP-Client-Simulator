@@ -118,3 +118,7 @@ Exiting... See ya...
 
 ```
 
+format is:
+
+leased ip is: (leased ip),(dhcp server ip),(host mac address)
+
